@@ -69,6 +69,6 @@ position">
 
 ### Task ----------
 
-[x] done
-[x] done
-[x] done
+- [x] done
+- [x] done
+- [] done
